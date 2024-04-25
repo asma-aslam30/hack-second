@@ -1,0 +1,53 @@
+
+
+.section-1{
+    height: 400px;
+    width: 100% !important;
+}
+.sec{
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+    width: 90% !important;
+}
+.sec1{
+    margin-top: 300px !important;
+    width: 90% !important;
+    /* background-image: url("./image/Rectangle\ 14\ \(5\).png"); */
+
+}
+.sec1{
+    /* margin-top: 300px !important; */
+    width: 90% !important;
+    background-image: url("./image/Rectangle\ 14\ \(5\).png");
+
+}
+.navbar{
+     
+    border-radius: 50px;
+}
+ 
+/* .other{
+    margin-left: 400px !important;
+}
+.con{
+    margin-left: 100px !important;
+} */
+.logo{
+    margin-right: 280px !important;
+}
+.sec2{
+    margin-top: 170px !important;
+    text-align: center !important;
+    margin-bottom: 30px !important;
+}
+.section-2{
+    margin-left: 50px !important;
+}
+.head{
+    text-align: center;
+}
+ .head-5{
+    font-size: 2rem;
+ }
+.para-1{
+    font-size: 1rem;
+}
